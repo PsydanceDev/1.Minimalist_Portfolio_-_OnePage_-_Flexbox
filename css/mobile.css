@@ -1,4 +1,5 @@
-/* Portfolio */
+/* Portafolio */
+
 #portfolio {
     padding: 40px 0;
 }
@@ -8,6 +9,7 @@
 }
 
 /* About */
+
 #about {
     padding: 40px 0;
 }
@@ -27,7 +29,8 @@
     padding-top: 20px;
 }
 
-/* Contact */
+/* Contacto */
+
 #contact {
     padding: 40px 0;
 }
